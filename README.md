@@ -1,16 +1,16 @@
 SIMPLE-CRUD-APP/
 └── todo-app/
-    ├── node_modules/
-    ├── .gitignore
-    ├── public/
-    │   ├── index.html
-    │   ├── styles.css
-    │   └── script.js
     ├── models/
     │   └── todo.model.js
+    ├── node_modules/
+    ├── public/
+    │   ├── index.html
+    │   ├── script.js
+    │   └── styles.css
     ├── routes/
     │   └── todos.js
-    ├── server.js
+    ├── .gitignore
     ├── package-lock.json
     ├── package.json
-    └── README.md
+    ├── README.md
+    └── server.js
